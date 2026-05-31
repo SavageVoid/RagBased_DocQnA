@@ -73,9 +73,10 @@ Ask Question -> Rewrite/Decompose Query -> Generate Embedding -> Hybrid Search (
 
 ## Visual
 
-![App Screenshot](assets\1.png)
-![App Screenshot](assets\2.png)
-![App Screenshot](assets\3.png)
+![App Screenshot](assets/1.png)
+![App Screenshot](assets/2.png)
+![App Screenshot](assets/3.png)
+
 ---
 
 
