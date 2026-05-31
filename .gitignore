@@ -1,0 +1,33 @@
+# --- Vector Store & Database ---
+chroma_db/
+
+# --- Environment Configuration & Secrets ---
+.env
+*.env
+
+# --- Python Build and Cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Streamlit Settings ---
+.streamlit/
+
+# --- Local Verification & Scratch Scripts ---
+test_gemini.py
+test_chroma.py
+test_set.json
+test1.txt
+test2.txt
+test_hybrid.txt
+test_rerank.txt
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+#extra
+ADVANCEMENT_PLAN.md
